@@ -1,0 +1,1 @@
+UPDATE addressParsing SET normalized_adr = N' تجزئة الشبانات رقم 70 ح ي م ' where id = 514032
